@@ -10,6 +10,6 @@ public class Member {
     }
     @Override
     public String toString() {
-        return "[ Имя " + name + "/ Расстояние " + maxRunDistance +" / Результат = "+ isWinner +"]";
+        return "[ Имя цу " + name + "/ Расстояние " + maxRunDistance +" / Результат = "+ isWinner +"]";
     }
 }
